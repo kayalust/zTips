@@ -1,0 +1,11 @@
+interval: 300 # every 5 minutes another tip will be broadcasted.
+sound: LEVEL_UP # this sound will play for every player when a tip is broadcasted.
+Tips:
+  - "&5[TIP] &7One\nLine2!\nLine3!" # Can have more lines in broadcast with '\n'
+  - "&5[TIP] &7Two\nLine2!\nLine3!"
+  - "&5[TIP] &7Three"
+  - "&5[TIP] &7Four"
+  - "&5[TIP] &7Five"
+  - "&5[TIP] &7Six"
+  - "&5[TIP] &7Seven"
+#Add more tips just by making another line here.

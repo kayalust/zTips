@@ -1,0 +1,8 @@
+name: zTips
+version: 1.0
+main: net.zorapvp.ztips.TipsPlugin
+author: veltus5184
+description: Tips plugin for ZoraPvP
+commands:
+  zoratips:
+    description: Yeah this is a command
